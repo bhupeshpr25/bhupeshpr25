@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Typescript, chakra UI, DSA**
 
 - 📫 How to reach me **bhupeshpr252@gmail.com**
-z
+
 - ⚡ Fun fact **I'm a weeb**
 
 <h3 align="left">Connect with me:</h3>
