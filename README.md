@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshpradhan&theme=dark" alt="bhupeshpradhan" /></p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
