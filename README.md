@@ -2,14 +2,13 @@
 <h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupeshpradhan" alt="bhupeshpradhan" /></a> </p>
 
 - 🔭 I’m currently working on **some fun projects**
 
 - 🌱 I’m currently learning **Typescript, chakra UI, DSA**
 
 - 📫 How to reach me **bhupeshpr252@gmail.com**
-
+z
 - ⚡ Fun fact **I'm a weeb**
 
 <h3 align="left">Connect with me:</h3>
