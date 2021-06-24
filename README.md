@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshpradhan&label=Profile%20views&color=008080&style=flat" alt="bhupeshpradhan" /> </p>
 
