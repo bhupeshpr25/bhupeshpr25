@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshpradhan&label=Profile%20views&color=008080&style=flat" alt="bhupeshpradhan" /> </p>
-
- <img align="right" alt="Coding" width="400" src="https://imgur.com/UITqaDU"/>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupeshpradhan" alt="bhupeshpradhan" /></a> </p>
 
