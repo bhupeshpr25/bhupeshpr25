@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=bhupeshpradhan)
 
 - 🔭 I’m currently working on some fun projects
 - 🌱 I’m currently learning typescript
