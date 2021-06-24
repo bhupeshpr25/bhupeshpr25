@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://imgur.com/UITqaDU)](https://github.com/bhupeshpradhan)
+(https://imgur.com/UITqaDU)](https://github.com/bhupeshpradhan)
 
 - 🔭 I’m currently working on some fun projects
 - 🌱 I’m currently learning typescript
