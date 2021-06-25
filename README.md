@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **I'm a weeb**
 
- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/anime-smile-hanako-anime-gif-21975704">
+<div align="right">
+<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/view/anime-smile-hanako-anime-gif-21975704">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
