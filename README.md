@@ -11,10 +11,6 @@
 
 - ⚡ Fun fact **I'm a weeb**
 
-<div align="right">
-<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/view/anime-smile-hanako-anime-gif-21975704">
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bhupeshpr252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupeshpr252" height="30" width="40" /></a>
