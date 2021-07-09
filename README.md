@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
-<img hight="400" width="300" border-radius="5px" alt="GIF" align="right" src="https://github.com/bhupeshpradhan/bhupeshpradhan/blob/main/assets/hello.gif">
+<img hight="400" width="300" border-radius="10px" alt="GIF" align="right" src="https://github.com/bhupeshpradhan/bhupeshpradhan/blob/main/assets/hello.gif">
 
 - 🔭 I’m currently working on **some fun projects**
 
