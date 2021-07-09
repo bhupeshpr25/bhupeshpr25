@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some fun projects**
 
-- 🌱 I’m currently learning **Typescript, chakra UI, DSA**
+- 🌱 I’m currently learning **Typescript, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
