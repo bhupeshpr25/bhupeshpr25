@@ -3,7 +3,7 @@
 
 <img hight="400" width="300" alt="GIF" align="right" src="https://github.com/HanakoK9/HanakoK9/blob/main/assets/hello.gif">
 
-- 🔭 I’m currently working on **some fun projects**
+- 🔭 I’m currently learning **DSA**
 
 
 <h3 align="left">Languages and Tools:</h3>
