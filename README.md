@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
-<img hight="400" width="300" alt="GIF" align="right" src="https://github.com/HanakoK9/HanakoK9/blob/main/assets/hello.gif">
-
 - 🔭 I’m currently learning **DSA**
 
 
