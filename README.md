@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer, currently a CS undergrad</h3>
 
 - 🔭 I’m currently learning **DSA**
-- 🔭 I’m currently working on my portfolio website
+- 🔭 I’m currently working on my new portfolio website
 
 
 <h3 align="left">Languages and Tools:</h3>
