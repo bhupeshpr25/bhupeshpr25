@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate software developer, currently a CS undergrad</h3>
 
-- 🔭 I’m currently learning **DSA**
+- 🔭 I’m currently learning **react native**
 - 🔭 I’m currently working on my new portfolio website
 
 
